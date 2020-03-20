@@ -1,0 +1,8 @@
+body {
+	margin:0;
+	padding:0;
+}
+body, table, input[type=text], textarea {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size:12px;
+}
